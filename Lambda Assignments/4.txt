@@ -1,0 +1,21 @@
+package org.com.interfaces;
+
+import java.util.ArrayList;
+import java.util.function.Predicate;
+
+public class Collectioninterfaces {
+	
+	public static void main(String args[]){
+		ArrayList<String> al=new ArrayList<>();
+		al.add("saikumar");
+		al.add("Amarnath");
+		al.add("odd");
+		al.add("s");
+		al.removeIf(e -> (e.length()%2!=0));
+		al.forEach(System.out::println);
+	}
+		
+	}
+
+
+

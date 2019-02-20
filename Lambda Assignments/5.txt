@@ -1,0 +1,20 @@
+package org.com.interfaces;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Assignment5 {
+	public static void main(String[] args) {
+		List<String> array = new ArrayList<String>();
+		array.add("Saikumar");
+		array.add("amarnath");
+		array.add("meharaj");
+		array.add("suresh");
+		System.out.println("Names :\n"+array);
+		System.out.println("*********************************************************************");
+	
+		String result = array.stream().map(saikumar -> Character.toString(saikumar.charAt(0))).reduce(" ", (a, b) -> a + b);
+		System.out.println(result);
+	
+	}
+}

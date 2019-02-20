@@ -1,0 +1,6 @@
+package org.com.implement;
+@FunctionalInterface
+public interface lambdaexpressions
+{
+void price(double amount);	
+}

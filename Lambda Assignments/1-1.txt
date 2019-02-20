@@ -1,0 +1,7 @@
+package org.com.Lambda;
+@FunctionalInterface
+public interface FuctionalInterface1
+{
+				
+public double operation(double a,double b);
+}

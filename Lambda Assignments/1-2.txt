@@ -1,0 +1,16 @@
+package org.com.Lambda;
+
+public class FunctionalImplementation{
+
+	public static void main(String[] args) {
+		FuctionalInterface1 d=(a,b)->(a+b);
+		FuctionalInterface1 e=(a,b)->(a-b);
+		FuctionalInterface1 f=(a,b)->(a*b);
+		FuctionalInterface1 g=(a,b)->(a/b);
+		
+		System.out.println(d.operation(33,45));
+		System.out.println(e.operation(33,4));
+		System.out.println(e.operation(53,9));
+		System.out.println(g.operation(89,9));
+	}
+}

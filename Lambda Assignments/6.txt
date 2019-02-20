@@ -1,0 +1,19 @@
+package org.com.interfaces;
+
+import java.util.ArrayList;
+import java.util.function.Predicate;
+
+public class Assignment6 {
+	
+	public static void main(String args[]){
+		ArrayList<String> al=new ArrayList<>();
+		al.add("saikumar");
+		al.add("Amarnath");
+		al.add("odd");
+		al.add("sburuhu");
+		al.replaceAll(e -> (e.toUpperCase()));
+		al.forEach(System.out::println);
+	}
+		
+	}
+

@@ -1,0 +1,16 @@
+package org.com.implement;
+
+public class lambdaOrderImplementation {
+
+	public static void main(String args[]) {
+
+		lambdaexpressions le=(amount)->
+	{
+	if(amount<10000)
+		System.out.println("ACCEPTED");
+	else
+		System.out.println("COMPLETED");
+	};
+	le.price(100000);
+	}
+}
