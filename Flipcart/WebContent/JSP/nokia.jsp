@@ -1,36 +1,18 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Noika</title>
+<title>nokia</title>
+<link rel="stylesheet" type="text/css" href="sheet1.css">
  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
-    <style>
-    /* Remove the navbar's default rounded borders and increase the bottom margin */ 
-    .navbar {
-      margin-bottom: 50px;
-      border-radius: 0;
-    }
-    
-    /* Remove the jumbotron's default bottom margin */ 
-     .jumbotron {
-      margin-bottom: 0;
-      background-color: white;
-    }
-   
-    /* Add a gray background color and some padding to the footer */
-    footer {
-      background-color:white;
-      padding: 25px;
-    }
-  </style>
 </head>
 <body>
-
-
 <div class="jumbotron">
   <div class="container text-center">
     <h1>Nokia</h1>      
@@ -41,7 +23,7 @@
   <div class="row">
     <div class="col-sm-6">
       <div class="panel panel-primary">
-        <div class="panel-heading">oneplus  64GB</div>
+        <div class="panel-heading">Nokia</div>
         <div class="panel-body"><img src="C:\Users\sburugu\Downloads\New folder (2)\Nokia 8.1.jpeg" class="img-responsive" style="width:100%" alt="Image"></div>
         <div class="panel-footer">Price:Rs:38,000</div>
       </div>
@@ -114,7 +96,7 @@ While winner of Snapdragon 835 vs Snapdragon 710 comparison may be an easy guess
 
 While doing speed tests side-by-side we also kept on launching heavy games until the time the apps/games start restarting from the background. Just to inform both Nokia 8 and Nokia 8.1 have 4GB RAM and both are on Android Pie. The speed test reveals how close Snapdragon 710 is to Snapdragon 835 in terms of real-life performance. Check the video below and lets us know your opinion in comments
 </p><br>
- <p><a href="login.html">BuyNow</a>
+ <p><a href="login.jsp">BuyNow</a>
       </div>
     </div>
 

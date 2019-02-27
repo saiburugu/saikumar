@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+<style>
+    .navbar {
+      margin-bottom: 50px;
+      border-radius: 0;
+    }
+    
+     .jumbotron {
+      margin-bottom: 0;
+    }
+   
+    
+    footer {
+      background-color:white;
+      padding: 25px;
+      
+      
+    }
+  </style>

@@ -1,36 +1,18 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>BlackBerry</title>
- <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+<title>blackberry</title>
+<link rel="stylesheet" type="text/css" href="sheet.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
-    <style>
-    /* Remove the navbar's default rounded borders and increase the bottom margin */ 
-    .navbar {
-      margin-bottom: 50px;
-      border-radius: 0;
-    }
     
-    /* Remove the jumbotron's default bottom margin */ 
-     .jumbotron {
-      margin-bottom: 0;
-      background-color: white;
-    }
-   
-    /* Add a gray background color and some padding to the footer */
-    footer {
-      background-color:white;
-      padding: 25px;
-    }
-  </style>
 </head>
 <body>
-
-
 <div class="jumbotron">
   <div class="container text-center">
     <h1>BlackBerry</h1>      
@@ -62,9 +44,8 @@ Compatible with 6GB RAM + 128 Flash
 Ports
 USB Type-C, USB 3.0, USB OTG, Headphone Jack Size: 3.5mm
 </p><br>
- <p><a href="login.html">BuyNow</a>
+ <p><a href="login.jsp">BuyNow</a>
       </div>
     </div>
-
 </body>
 </html>

@@ -1,36 +1,18 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Samsung</title>
+<title>samsung</title>
+<link rel="stylesheet" type="text/css" href="sheet1.css">
  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
-    <style>
-    /* Remove the navbar's default rounded borders and increase the bottom margin */ 
-    .navbar {
-      margin-bottom: 50px;
-      border-radius: 0;
-    }
-    
-    /* Remove the jumbotron's default bottom margin */ 
-     .jumbotron {
-      margin-bottom: 0;
-      background-color: white;
-    }
-   
-    /* Add a gray background color and some padding to the footer */
-    footer {
-      background-color:white;
-      padding: 25px;
-    }
-  </style>
 </head>
 <body>
-
-
 <div class="jumbotron">
   <div class="container text-center">
     <h1>Samsung</h1>      
@@ -59,9 +41,8 @@ Intelligent Scan feels clunky
 Attracts fingerprints easily
      <br><font size="3" color="red">Performance:</font>The Samsung Galaxy S9 features a metal and glass design, with tapering edges on both sides. It has a 5.8-inch Quad HD+ Super AMOLED display with an 18.5:9 aspect ratio. Touch response and colours are superb and it also supports HDR. In India, the phone uses an Exynos 9810 octa-core SoC and comes with 4GB of RAM a choice of 64GB or 256GB internal storage, which is expandable. The stereo speakers delivers good sound quality and there's wireless charging here too. The main highlight is the camera, which features a variable aperture, super slow motion videos up to 960fps and AR Emojis. Camera performance is good too, especially in low light. The 3000mAh battery supports fast charging and should stretch an entire day on a single charge
 </p><br>
-<p><a href="login.html">BuyNow</a>
+<p><a href="login.jsp">BuyNow</a>
       </div>
     </div>
-
 </body>
 </html>
