@@ -12,6 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 
 import org.apache.tomcat.jni.User;
 
+import com.dao.UserDao;
 import com.flipkart.PojoClass;
 
 @WebServlet("/RegisterServlet")

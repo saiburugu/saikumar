@@ -44,7 +44,7 @@ Compatible with 6GB RAM + 128 Flash
 Ports
 USB Type-C, USB 3.0, USB OTG, Headphone Jack Size: 3.5mm
 </p><br>
- <p><a href="login.jsp">BuyNow</a>
+ <p><a href="blackberry1.jsp">BuyNow</a>
       </div>
     </div>
 </body>

@@ -56,7 +56,7 @@ Front camera: On the front the Mi MIX 3 5G packs a primary 24MP camera and secon
 Battery: The Mi MIX 3 5G includes a 3800mAh battery paired with quack charge+.
 
 Software: The Mi MIX 3 5G runs Android Pie-based MIUI 10 out-of-the-box.</p><br>
- <p><a href="login.jsp">BuyNow</a>
+ <p><a href="mi11.jsp">BuyNow</a>
       </div>
     </div>
 </body>

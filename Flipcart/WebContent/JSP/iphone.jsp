@@ -22,9 +22,9 @@
   <div class="row">
     <div class="col-sm-6">
       <div class="panel panel-primary">
-        <div class="panel-heading">oneplus  64GB</div>
+        <div class="panel-heading">I phone X</div>
         <div class="panel-body"><img src="C:\Users\sburugu\Downloads\New folder (2)\iphonex.jpg" class="img-responsive" style="width:100%" alt="Image"></div>
-        <div class="panel-footer">Price:Rs:38,000</div>
+        <div class="panel-footer">Price:Rs:1,18,000</div>
       </div>
     </div>
     <div class="col-sm-6">
@@ -93,7 +93,7 @@ The iPhone Xs Face ID sensor reportedly took more time to assemble than expected
 According to Bloomberg, it was earlier in the fall of 2017 that Apple realized production problems meant it wouldnt have enough iPhone Xs for the holidays. Sources familiar to the situation say Apple s solution was reportedly to let suppliers reduce the accuracy of the iPhone Xs Face ID feature. Lowering the requirements for its Face ID technology permitted the firm to speed up production. The change also sped up testing of completed modules.
 
 </p><br>
- <p><a href="login.jsp">BuyNow</a>
+ <p><a href="I Phone X.jsp">BuyNow</a>
  
       </div>
     </div>

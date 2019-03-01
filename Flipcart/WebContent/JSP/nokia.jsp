@@ -30,17 +30,17 @@
     </div>
     <div class="col-sm-6">
       <p><font size="3" color="red">FEATURES:</font> Nokia 8.1 General details
-Release date	December 2018
-Form factor	Touchscreen
-Dimensions (mm)	154.80 x 75.76 x 7.97
-Weight (g)	178.00
-Battery capacity (mAh)	3500
-Removable battery	No
-Colours	Blue/ Silver, Steel/ Copper, Iron/ Steel
-Nokia 8.1 display
-Screen size (inches)	6.18
-Touchscreen	Yes
-Resolution	1080x2244 pixels
+<br> Release date	December 2018
+<br>Form factor	Touchscreen
+<br>Dimensions (mm)	154.80 x 75.76 x 7.97
+<br>Weight (g)	178.00
+<br>Battery capacity (mAh)	3500
+<br>Removable battery	No
+<br>Colours	Blue/ Silver, Steel/ Copper, Iron/ Steel
+<br>Nokia 8.1 display
+<br>Screen size (inches)	6.18
+<br>Touchscreen	Yes
+<br>Resolution	1080x2244 pixels
 Aspect ratio	18.7:9
 Nokia 8.1 hardware
 Processor	2.2GHz octa-core
@@ -96,7 +96,7 @@ While winner of Snapdragon 835 vs Snapdragon 710 comparison may be an easy guess
 
 While doing speed tests side-by-side we also kept on launching heavy games until the time the apps/games start restarting from the background. Just to inform both Nokia 8 and Nokia 8.1 have 4GB RAM and both are on Android Pie. The speed test reveals how close Snapdragon 710 is to Snapdragon 835 in terms of real-life performance. Check the video below and lets us know your opinion in comments
 </p><br>
- <p><a href="login.jsp">BuyNow</a>
+ <p><a href="nokia1.jsp">BuyNow</a>
       </div>
     </div>
 

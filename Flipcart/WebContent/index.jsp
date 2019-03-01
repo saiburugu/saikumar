@@ -9,13 +9,13 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
-<title>Flipkartx</title>
+<title>Flipkart</title>
 </head>
 <body>
 <div class="jumbotron">
   <div class="container text-center">
-    <h1>Flipkart</h1>      
-    
+   <h1>Flipkart</h1>  
+    <h>Explore Plus</h>       
   </div>
 </div>
 
@@ -33,8 +33,8 @@
         <li class="active"><a href="#">Electronics</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-       <li><a href="#"><span class="glyphicon glyphicon-shopping-cart"></span> Cart</a></li>
-       <li><a href="JSP/signup.jsp"><span class="glyphicon glyphicon-shopping-cart"></span> Register</a></li>
+       <li><a href="Add To Cart.jsp"><span class="glyphicon glyphicon-shopping-cart"></span> Cart</a></li>
+       <li><a href="JSP/signup.jsp"><i style="font-size:24px" class="fa">&#xf007;</i> Register</a></li>
       </ul>
     </div>
   </div>
@@ -44,7 +44,7 @@
   <div class="row">
     <div class="col-sm-4">
       <div class="panel panel-primary">
-        <div class="panel-heading">IPHONE</div>
+        <div class="panel-heading">IPHONE X</div>
         <a href="JSP/iphone.jsp"><div class="panel-body"><img src="C:\Users\sburugu\Downloads\New folder (2)\iphonex.jpg" class="img-responsive" style="width:100%" alt="Image"></div></a>
         <!-- <button type="button" class="btn btn-default">BuyNow</button> -->
         <div class="panel-footer"> 
@@ -57,7 +57,7 @@
     </div>
     <div class="col-sm-4"> 
       <div class="panel panel-danger">
-        <div class="panel-heading">ONEPLUSL</div>
+        <div class="panel-heading">ONEPLUS</div>
        <a href="JSP/oneplus.jsp"> <div class="panel-body"><img src="C:\Users\sburugu\Downloads\New folder (2)\OnePlus-7.png" class="img-responsive" style="width:100%" alt="Image"></div></a>
         <!-- <button type="button" class="btn btn-default">BuyNow</button> -->
         <div class="panel-footer">

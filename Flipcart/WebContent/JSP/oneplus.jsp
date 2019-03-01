@@ -143,7 +143,7 @@ RAM
 gpu
 Adreno 630
 Loudspeaker	Voice 68dB / Noise 74dB/ Ring 80dBAudio quality	Noise -92.6dB / Crosstalk -93.4dBBattery life	Endurance rating 86h</p><br>
- <p><a href="login.jsp">BuyNow</a>
+ <p><a href="oneplus1.jsp">BuyNow</a>
       </div>
     </div>
 </body>

@@ -41,7 +41,7 @@ Intelligent Scan feels clunky
 Attracts fingerprints easily
      <br><font size="3" color="red">Performance:</font>The Samsung Galaxy S9 features a metal and glass design, with tapering edges on both sides. It has a 5.8-inch Quad HD+ Super AMOLED display with an 18.5:9 aspect ratio. Touch response and colours are superb and it also supports HDR. In India, the phone uses an Exynos 9810 octa-core SoC and comes with 4GB of RAM a choice of 64GB or 256GB internal storage, which is expandable. The stereo speakers delivers good sound quality and there's wireless charging here too. The main highlight is the camera, which features a variable aperture, super slow motion videos up to 960fps and AR Emojis. Camera performance is good too, especially in low light. The 3000mAh battery supports fast charging and should stretch an entire day on a single charge
 </p><br>
-<p><a href="login.jsp">BuyNow</a>
+<p><a href="samsung1.jsp">BuyNow</a>
       </div>
     </div>
 </body>
