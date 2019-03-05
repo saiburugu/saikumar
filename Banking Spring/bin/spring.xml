@@ -9,7 +9,7 @@
 <bean id="BankAccountBean" class="com.banking.BankAccountController"  name="bank" autowire="byType">
 </bean>  
   
-  <bean id="repository" class="com.dao.BankAccountepositoryImpl">  </bean>
+  <bean id="repository" class="com.dao.BankAccountepositoryImpl"></bean>
 
   <bean id="service" class="com.service.BankAccountServiceImpl" autowire="byType">
    </bean> 
