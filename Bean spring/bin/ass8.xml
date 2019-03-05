@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+    "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+<beans>
+<bean id="address" class="com.ass8.Address">
+<constructor-arg  value="Lingampally"/>
+<constructor-arg  value="Hyderabad"/>
+<constructor-arg type="int" value="500019"/>
+<constructor-arg  value="telangana"/>
+<constructor-arg  value="India"/>
+</bean>
+<bean id="customer" class="com.ass8.Customer" init-method="myInit" destroy-method="myCleanUp">
+<constructor-arg  type="int" value="17011566"/>
+<constructor-arg value="saikumar"/>
+<constructor-arg  type="int" value="786898485"/>
+<constructor-arg  ref="address"/>
+</bean>
+</beans>
