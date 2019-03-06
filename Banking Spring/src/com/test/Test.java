@@ -19,8 +19,6 @@ public class Test {
 		
 		System.out.println(controller.deposit(100,100000));
 		
-		
-
 	}
 
 }
